@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "599063883960",
+    "project_id": "pc-api-4631338836758036940-624",
+    "storage_bucket": "pc-api-4631338836758036940-624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599063883960:android:1f7cc54a4efd56e786444d",
+        "android_client_info": {
+          "package_name": "com.the7th.club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599063883960-5rmqe8u8fsfa6gqegmmsiotqesimr2iu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.the7th.club",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "599063883960-mq8aen7k8rblg91oa89nllpeinv348dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzaDqjl19MLJNQeR37v_034_H5krnC8sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599063883960-mq8aen7k8rblg91oa89nllpeinv348dk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599063883960-v4v3b4n9fgpgm9326rqh2p66f0sbu5fj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.the7th.club"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
