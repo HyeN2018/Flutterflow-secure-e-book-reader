@@ -10,8 +10,9 @@ Flutterflow project: https://app.flutterflow.io/project/the7th-d2qg0e
 - **Backend Integration:**
   - Actions ready to use with a backend server
 - **User Management:**
-  - Phone hardware checking to avoid account sharing.
+  - Phone hardware checking to prevent account sharing.
   - User panel for viewing account details.
+  - Actions logs using webhooks
 - **Book Library:**
   - Browse purchased books from a library, accessible directly within the app.
 - **Reader Screen:**
@@ -23,6 +24,7 @@ Flutterflow project: https://app.flutterflow.io/project/the7th-d2qg0e
   - Detection of Android developer mode setting from developer settings.
 - **Screen Protection:**
   - Prevent unauthorized access by disabling screenshotting and screen recording functionalities.
+  - Transparent watermark with username text over e-book 
 - **Optional RASP Module:**
   - Enable the runRASP module for advanced security measures (manual app build using Flutter required).
   
